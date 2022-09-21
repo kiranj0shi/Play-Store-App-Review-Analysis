@@ -1,4 +1,4 @@
-# Play-Store-Review-Analysis
+# Play-Store-Apps-Review-Analysis
 Play Store place a greater level of  importance on ratings and reviews than ever before. Apps with higher ratings and reviews rank high in search. If an app ranks high then there's a better chance of it being found and downloaded. The more downloads the more it will be kept high in the rankings
 The analysis of Google Play Store application aided to build most reliable and more interactive applications. This would be very useful for app developers to build an application focused on certain discussed category in this analysis. This analysis will help in building the application with precise and accurate objectives.
 # Abstract
@@ -16,4 +16,16 @@ In this project, we investigate the different variables of Apps on Google Play S
 • Price 
 • Content Rating 
 # Conclusion
-Users prefer to pay for apps that are light-weighted. As app size get larger conversion rate decreases.
+• Game category has the most
+number of downloads and ratings,
+and Event category has the
+maximum number of average rating.
+• The size and free/paid apps category
+affected the maximum number of
+downloads.
+• We did not find any correlation
+between paid apps and number of
+downloads or ratings.
+• Users prefer to pay for apps that are
+light-weighted. As app size get larger
+conversion rate decreases.
