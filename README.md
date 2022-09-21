@@ -6,26 +6,17 @@ The Google Play Store is one of the largest and most popular Android app stores.
 # Project Goals
 In this project, we investigate the different variables of Apps on Google Play Store that why and how certain applications succeed and others. Also, what is required for an application to be considered as successfully topping the charts.
 # Data Collected
-• App
-• Category 
-• Rating 
-• Reviews 
-• Size 
-• Installs
-• Type 
-• Price 
-• Content Rating 
+#### • App
+#### • Category 
+#### • Rating 
+#### • Reviews 
+#### • Size 
+#### • Installs
+#### • Type 
+#### • Price 
+#### • Content Rating 
 # Conclusion
-• Game category has the most
-number of downloads and ratings,
-and Event category has the
-maximum number of average rating.
-• The size and free/paid apps category
-affected the maximum number of
-downloads.
-• We did not find any correlation
-between paid apps and number of
-downloads or ratings.
-• Users prefer to pay for apps that are
-light-weighted. As app size get larger
-conversion rate decreases.
+#### • Game category has the most number of downloads and ratings, and Event category has the maximum number of average rating.
+#### • The size and free/paid apps category affected the maximum number of downloads.
+#### • We did not find any correlation between paid apps and number of downloads or ratings.
+#### • Users prefer to pay for apps that are light-weighted. As app size get larger conversion rate decreases.
